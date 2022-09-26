@@ -52,7 +52,7 @@ The dataset has already given for all these expressions. You can also try to inc
 
 ### Useful resources
 
-- [Example resource 1](https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2) - This is an amazing article which helped me finally understand CNN Model in a better way. I really liked this pattern and will use it going forward.
+- [Applied Deep Learning - Part 4: Convolutional Neural Networks](https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2) - This is an amazing article which helped me finally understand CNN Model in a better way. I really liked this pattern and will use it going forward.
 
 
 ## Author
