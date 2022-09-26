@@ -66,4 +66,3 @@ I really thank my guide Ranjitha ma'am for guiding us all along.
 I also thank my team mates Lakshmi Supraja T and M M Krupashree who made this project successful and always bearing with me.
 I would also like to extend my gratefulness to my friend Manjunath D who helped me lot more.
 Thank you so much people.
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
